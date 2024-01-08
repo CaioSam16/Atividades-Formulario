@@ -1,0 +1,31 @@
+
+#title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(3, 55, 144);
+    margin-left: 7%;
+}
+
+#subtitulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(61, 142, 3);
+    margin-left: 10%; 
+}
+
+#fieldset{
+    border: 1;
+}
+
+#body{
+    background-image: url(dragonball.jpeg);  
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    background-position: center center;
+    font-size: 1em ;
+    color: black;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+    
+  }
